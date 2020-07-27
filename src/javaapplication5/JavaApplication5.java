@@ -18,6 +18,10 @@ public class JavaApplication5 {
         // TODO code application logic here
         
         System.out.print("jodase loca");
+        if (true) {
+            //esta bien
+            
+        }
     }
     
 }
