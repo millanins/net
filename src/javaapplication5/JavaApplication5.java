@@ -20,7 +20,7 @@ public class JavaApplication5 {
         System.out.print("jodase loca");
         if (true) {
             //esta bien
-            
+            //PAPI RICO//
         }
     }
     
